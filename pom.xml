@@ -32,10 +32,10 @@
     			<version>2.19.1</version>
     			<executions>
             <execution>
-              <id>surefire:test</id>
+              <id>surefire-test</id>
               <phase>test</phase>
               <goals>
-                <goal>surefire:test</goal>
+                <goal>surefire-test</goal>
               </goals>
               <configuration>
                 <includes>
