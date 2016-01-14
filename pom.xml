@@ -36,5 +36,6 @@
            <include>**/*.java</include>
           </includes>
     		</plugin>
-  		</plugins>
+  	</plugins>
+  </build>
 </project>
